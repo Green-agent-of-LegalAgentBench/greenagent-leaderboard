@@ -1,2 +1,3 @@
 trigger run
 trigger 2026年 1月15日 星期四 04时26分22秒 PST
+trigger run 2026-01-15 13:20
